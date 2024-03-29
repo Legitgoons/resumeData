@@ -8,6 +8,10 @@
       "imgSrc": "https://i.ibb.co/zJG1S6x/github.webp",
       "imgAlt": "GithubLink",
       "text": "Github"
+    },
+    {
+      "href": "https://cksxkr5193.tistory.com/22",
+      "text": "👨🏻‍💻블로그 회고"
     }
   ],
   "skills": [
@@ -41,7 +45,7 @@
       ]
     },
     {
-      "title": "문제 해결",
+      "title": "Problem Solving",
       "sentences": [
         {
           "text": "같은 데이터를 상단에는 그래프로, 하단에는 날짜별 카드 형식으로 보여줘야하는 화면이 있었습니다.",
@@ -70,114 +74,24 @@
       "title": "Other Contribution",
       "sentences": [
         { "text": "혈당 등록 및 관리 기능", "link": {}, "endText": "" },
-        { "text": "식단 검색, 등록 및 관리 기능", "link": {}, "endText": "" }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "title": "Keep",
-      "details": [
+        { "text": "식단 검색, 등록 및 관리 기능", "link": {}, "endText": "" },
         {
-          "heading": "개발",
-          "sentences": [
-            {
-              "text": "클린하고 일관적인 프로덕트를 위해 ",
-              "link": {
-                "href": "https://cksxkr5193.tistory.com/21",
-                "text": "상세한 PR 작성 및 적극적인 리뷰"
-              },
-              "endText": ""
-            },
-            {
-              "text": "상황에 알맞은 ",
-              "link": {
-                "href": "https://cksxkr5193.tistory.com/20",
-                "text": "폴더구조"
-              },
-              "endText": " 사용"
-            },
-            {
-              "text": "재사용성과 유지보수성을 위해 컴포넌트와 Util함수, type을 모듈화",
-              "link": {},
-              "endText": ""
-            },
-            {
-              "text": "",
-              "link": {
-                "href": "https://cksxkr5193.tistory.com/24",
-                "text": "Interface와 Type의 차이점에 대해서 학습"
-              },
-              "endText": " 및 사용"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Problem & Try",
-      "details": [
+          "text": "클린하고 일관적인 프로덕트를 위해 ",
+          "link": {
+            "href": "https://cksxkr5193.tistory.com/21",
+            "text": "상세한 PR 작성 및 적극적인 리뷰"
+          },
+          "endText": ""
+        },
         {
-          "heading": "개발",
-          "sentences": [
-            {
-              "text": "JsDoc로 주석을 작성하는건 가독성에 도움이 되지만, 코드가 주석을 못따라가는 현상 발생",
-              "link": {},
-              "endText": ""
-            },
-            {
-              "text": "Try: 핵심적인 경우에만, 최소한의 주석을 작성하는 식으로 변경",
-              "link": {},
-              "endText": ""
-            },
-            {
-              "text": "Debounce의 경우, 명확한 데이터를 구하지 못하고 추측만으로 구현함",
-              "link": {},
-              "endText": ""
-            },
-            {
-              "text": "Try: 실질적인 리소스 소모와 정확한 데이터를 고려해서 개발하기",
-              "link": {},
-              "endText": ""
-            },
-            {
-              "text": "React-Native를 사용하며 App 관련 설정에서 많은 어려움을 겪음",
-              "link": {},
-              "endText": ""
-            },
-            {
-              "text": "Try: 추후 App 개발 시 Native App에 대한 학습 필요",
-              "link": {},
-              "endText": ""
-            }
-          ]
+          "text": "상황에 알맞은 ",
+          "link": {
+            "href": "https://cksxkr5193.tistory.com/20",
+            "text": "폴더구조"
+          },
+          "endText": " 사용"
         }
       ]
     }
-  ],
-  "blog": {
-    "title": "관련 게시글",
-    "links": [
-      {
-        "href": "https://cksxkr5193.tistory.com/22",
-        "text": "🧑‍⚕️가족과 함께하는 당뇨관리 <관리하당> 회고"
-      },
-      {
-        "href": "https://cksxkr5193.tistory.com/17",
-        "text": "무한스크롤을 통해서 UX 개선하기"
-      },
-      {
-        "href": "https://cksxkr5193.tistory.com/18",
-        "text": "Debounce를 활용해서 api 요청 횟수 줄이기"
-      },
-      {
-        "href": "https://cksxkr5193.tistory.com/20#3.%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8B%B9(React-Native)-1",
-        "text": "폴더구조의 Best Practice를 찾아서"
-      },
-      {
-        "href": "https://cksxkr5193.tistory.com/21",
-        "text": "코드리뷰로 클린하고 일관적인 프로덕트 만들기"
-      }
-    ]
-  }
+  ]
 }
